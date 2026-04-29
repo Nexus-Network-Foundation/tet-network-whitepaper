@@ -9,7 +9,7 @@ TET Network is a fluid peer-to-peer computational and energy resource protocol. 
 
 The architecture is locked. Read the definitive blueprint for the intelligence-backed sovereign infrastructure.
 
-* [**Read the Whitepaper (English)**](./tet_whitepaper_en.pdf)
+* [**Read the Whitepaper (English)**](./tet%20english%20ver%20whitepaper.pdf)
 * [**Read the Whitepaper (Japanese)**](./tet_whitepaper_ja.pdf) 
 
 ## ⚙️ Development Status
